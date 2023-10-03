@@ -6,7 +6,6 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "custom-theme",
   "theme-path": "./custom-theme",
   "css": "./custom.css",
   "footer": "",
